@@ -1,0 +1,126 @@
+
+{
+   "skills":[
+        {
+            "id":1,
+            "head" : "HTML5",
+            "percentage": "90%",
+            "span":"html"
+        },
+        {
+            "id":2,
+            "head" : "CSS3",
+            "percentage": "85%",
+            "span":"css"
+        },
+        {
+            "id":3,
+            "head" : "Javascript",
+            "percentage": "80%",
+            "span":"javascript"
+        },
+        {
+            "id":4,
+            "head" : "Bootstrap 5",
+            "percentage": "80%",
+            "span":"bootstrap"
+        },
+        {
+            "id":5,
+            "head" : "react",
+            "percentage": "80%",
+            "span":"react"
+        },
+        {
+            "id":6,
+            "head" : "Tailwind Css",
+            "percentage": "75%",
+            "span":"tailwind"
+        },
+        {
+            "id":7,
+            "head" : "jQuery",
+            "percentage": "80%",
+            "span":"jQuery"
+        },
+        {
+            "id":8,
+            "head" : "TypeScript",
+            "percentage": "70%",
+            "span":"typescript"
+        }
+    ],
+
+    "projects":[
+
+        {
+            "id": 1,
+            "title": "Impact Template",
+            "description": "Responsive Application is built with html,css,js,bootstrap and other libraries",
+            "imageUrl": "Images/impact.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/Imp_Template.git",
+            "siteUrl":"https://impacttemplate.netlify.app/",
+            "alt": "project1"
+        },
+        {
+            "id": 2,
+            "title": "ToDoList App",
+            "description": "App built with html,css and js.User can add tasks and  delete it",
+            "imageUrl": "Images/todolist.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/Javascript-Tutorials.git",
+            "siteUrl":"https://coruscating-chebakia-c9d109.netlify.app/",
+            "alt": "project2"
+        },
+        {
+            "id": 3,
+            "title": "E-Learning",
+            "description": "Responsive Multi Pages App built with html, css, js and bootstrap for learning courses",
+            "imageUrl": "Images/elearning.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/E-Learning.git",
+            "siteUrl":"https://joyful-mochi-ed68fe.netlify.app/",
+            "alt": "project3"
+        },
+        {
+            "id": 4,
+            "title": "Github-Repos",
+            "description": "Application built with html,css and js.User can get github repos when you write github username",
+            "imageUrl": "Images/repos.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/Javascript-Tutorials.git",
+            "siteUrl":"https://radiant-souffle-5ae09e.netlify.app/",
+            "alt": "project4"
+        },
+        {
+            "id": 5,
+            "title":"React Weather App",
+            "description":"Application built with react.User can type city and country name to get weather stats",
+            "imageUrl":"Images/react-weather-app.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/React-Weather-App",
+            "siteUrl":"https://luxury-marzipan-060cbc.netlify.app/"
+        },
+        {
+            "id":6,
+            "title":"Business Template",
+            "description":"Responsive App contains differnt sections include services and projects",
+            "imageUrl":"Images/business.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/Business-Template.git",
+            "siteUrl":"https://busintemplate.netlify.app/"
+        },
+        {
+            "id":7,
+            "title":"Reminder App",
+            "description":"Responsive App built with redux-toolkit. User can add and delete reminders",
+            "imageUrl":"Images/reminder.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/Redux_Toolkit-Reminder_App",
+            "siteUrl":"https://magnificent-blancmange-0e74e1.netlify.app/"
+        },
+        {
+            "id":8,
+            "title":"Crud App",
+            "description":"Responsive App contains built with redux-toolkit. User can add and delete tasks",
+            "imageUrl":"Images/crudapp.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/crud-reduxtoolkit",
+            "siteUrl":"https://candid-wisp-32a389.netlify.app/"
+        }
+    ]
+        
+}
