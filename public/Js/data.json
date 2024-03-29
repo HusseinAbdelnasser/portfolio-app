@@ -27,7 +27,7 @@
         },
         {
             "id":5,
-            "head" : "react",
+            "head" : "React",
             "percentage": "80%",
             "span":"react"
         },
@@ -64,12 +64,12 @@
         },
         {
             "id": 2,
-            "title": "ToDoList App",
-            "description": "App built with html,css and js.User can add tasks and  delete it",
-            "imageUrl": "Images/todolist.png",
-            "githubUrl":"https://github.com/HusseinAbdelnasser/Javascript-Tutorials.git",
-            "siteUrl":"https://coruscating-chebakia-c9d109.netlify.app/",
-            "alt": "project2"
+            "title": "Chat Application",
+            "description":"Responsive Chat App built with React Engine.You can send and receive messages",
+            "imageUrl": "Images/chat-app.png",
+            "githubUrl": "https://github.com/HusseinAbdelnasser/chat-app",
+            "siteUrl" : "https://chat-app-hussein.netlify.app/",
+            "alt": "project2"       
         },
         {
             "id": 3,
@@ -120,6 +120,15 @@
             "imageUrl":"Images/crudapp.png",
             "githubUrl":"https://github.com/HusseinAbdelnasser/crud-reduxtoolkit",
             "siteUrl":"https://candid-wisp-32a389.netlify.app/"
+        },
+        {
+            "id": 9,
+            "title": "ToDoList App",
+            "description": "App built with html,css and js.User can add tasks and  delete it",
+            "imageUrl": "Images/todolist.png",
+            "githubUrl":"https://github.com/HusseinAbdelnasser/Javascript-Tutorials.git",
+            "siteUrl":"https://coruscating-chebakia-c9d109.netlify.app/",
+            "alt": "project9"
         }
     ]
         
