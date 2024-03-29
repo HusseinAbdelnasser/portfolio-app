@@ -95,7 +95,8 @@
             "description": "Web is built in React by using Wikipedia API.You can search any word",
             "imageUrl": "Images/wikisearch.png",
             "githubUrl":"https://github.com/HusseinAbdelnasser/wiki-search",
-            "siteUrl": "https://wiki-creat-search.netlify.app/"
+            "siteUrl": "https://wiki-creat-search.netlify.app/",
+            "alt": "project5"
         },
         {
             "id": 6,
@@ -103,7 +104,8 @@
             "description":"Application built with react.User can type city and country name to get weather stats",
             "imageUrl":"Images/react-weather-app.png",
             "githubUrl":"https://github.com/HusseinAbdelnasser/React-Weather-App",
-            "siteUrl":"https://luxury-marzipan-060cbc.netlify.app/"
+            "siteUrl":"https://luxury-marzipan-060cbc.netlify.app/",
+            "alt": "project6"
         },
         {
             "id":7,
@@ -111,7 +113,8 @@
             "description":"Responsive App contains differnt sections include services and projects",
             "imageUrl":"Images/business.png",
             "githubUrl":"https://github.com/HusseinAbdelnasser/Business-Template.git",
-            "siteUrl":"https://busintemplate.netlify.app/"
+            "siteUrl":"https://busintemplate.netlify.app/",
+            "alt": "project7"
         },
         {
             "id":8,
@@ -119,7 +122,8 @@
             "description":"Responsive App built with redux-toolkit. User can add and delete reminders",
             "imageUrl":"Images/reminder.png",
             "githubUrl":"https://github.com/HusseinAbdelnasser/Redux_Toolkit-Reminder_App",
-            "siteUrl":"https://magnificent-blancmange-0e74e1.netlify.app/"
+            "siteUrl":"https://magnificent-blancmange-0e74e1.netlify.app/",
+            "alt": "project8"
         },
         {
             "id":9,
@@ -127,7 +131,8 @@
             "description":"Responsive App contains built with redux-toolkit. User can add and delete tasks",
             "imageUrl":"Images/crudapp.png",
             "githubUrl":"https://github.com/HusseinAbdelnasser/crud-reduxtoolkit",
-            "siteUrl":"https://candid-wisp-32a389.netlify.app/"
+            "siteUrl":"https://candid-wisp-32a389.netlify.app/",
+            "alt": "project9"
         },
         {
             "id": 10,
@@ -136,7 +141,7 @@
             "imageUrl": "Images/todolist.png",
             "githubUrl":"https://github.com/HusseinAbdelnasser/Javascript-Tutorials.git",
             "siteUrl":"https://coruscating-chebakia-c9d109.netlify.app/",
-            "alt": "project9"
+            "alt": "project10"
         }
     ]
         
