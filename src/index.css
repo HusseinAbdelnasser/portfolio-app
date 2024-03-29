@@ -86,7 +86,7 @@ ul li a{
 }
 
 
-@media(min-width: 768px){
+@media(min-width: 991px){
   .navbar .nav {
     border: 1px solid var(--footer-color);
     border-radius: 25px;
@@ -99,7 +99,7 @@ ul li a{
   }
 }
 
-@media(max-width:767px){
+@media(max-width:990px){
   .navbar .nav {
     background-color:none;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
