@@ -9,7 +9,7 @@ import Navbar from 'react-bootstrap/Navbar';
 const Header = (props) => {
   return (
     <>
-      <Navbar expand="lg" className="px-5 mt-3">
+      <Navbar expand="lg" className=" mt-3">
         <Container>
           <Navbar.Brand href="#home">
             <div className='image overflow-hidden'>

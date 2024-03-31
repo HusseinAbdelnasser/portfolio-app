@@ -234,6 +234,7 @@ ul li a{
 .projects .project .project-image .img-fluid{
   width: 380px;
   height: 140px;
+  border-radius: 10px;
 }
 
 .projects .project .project-image{
@@ -242,7 +243,7 @@ ul li a{
 
 @media(max-width: 767px){
   .projects .project .project-image .img-fluid{
-    width: 400px;
+    width: 500px;
   }
 }
 
@@ -328,4 +329,10 @@ ul li a{
 
 .footerContainer .footer p{
   color: var(--foot-color);
+}
+
+@media(max-width: 425px){
+  .footerContainer .footer p{
+    font-size: 14px;
+  } 
 }

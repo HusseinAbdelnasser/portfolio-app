@@ -60,15 +60,17 @@ const Projects = () => {
 
 
   return (
-    <div className='projects px-5 '>
-      <Swiper
-        modules={[ Pagination, Autoplay]}
-        breakpoints={breakpoints}
-        pagination={{ clickable: true }}
-        //autoplay={{ delay: 3000 }}
-      >
-        {projectsList}
-      </Swiper>
+    <div className='projects mt-5'>
+      <div className='container'>
+        <Swiper
+          modules={[ Pagination, Autoplay]}
+          breakpoints={breakpoints}
+          pagination={{ clickable: true }}
+          //autoplay={{ delay: 3000 }}
+        >
+          {projectsList}
+        </Swiper>
+      </div>
     </div>
   )
 }

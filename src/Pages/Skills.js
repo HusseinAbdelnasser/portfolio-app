@@ -28,10 +28,12 @@ const  Skills = () => {
 
  
   return (
-    <div className="skills px-5 mt-5">
-      <div className='row'>
-        {skillsList}
-      </div>   
+    <div className="skills  mt-5">
+      <div className='container'>
+        <div className='row'>
+          {skillsList}
+        </div>   
+      </div>
     </div>
   )
 }
